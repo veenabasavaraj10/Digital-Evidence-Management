@@ -1,0 +1,11 @@
+DIGITAL EVIDENCE MANAGEMENT SYSTEM
+Officer Report
+Officer Name: arjun
+------------------------------------------------
+Evidence ID: 4
+Case ID: CASE101
+Evidence Name: Blood Sample
+Description: Blood stain found near window
+Date Collected: 2026-03-03
+Status: Sent to Lab
+------------------------------------------------
